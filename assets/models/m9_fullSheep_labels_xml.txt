@@ -1,0 +1,38 @@
+<string-array name="sheep_names">
+<item>Badger Face sheep</item>
+<item>Balwen sheep</item>
+<item>Black Welsh Mountain sheep</item>
+<item>Border Cheviot</item>
+<item>Border Leicester sheep</item>
+<item>Castlemilk Moorit</item>
+<item>Cheviot sheep</item>
+<item>Cotswold sheep</item>
+<item>Dalesbred sheep</item>
+<item>Derbyshire Gritstone sheep</item>
+<item>Devon and Cornwall Longwool</item>
+<item>Dorset Horn sheep</item>
+<item>Easycare sheep</item>
+<item>Exmoor Horn</item>
+<item>Greyface Dartmoor</item>
+<item>Hebridean sheep</item>
+<item>Herdwick sheep</item>
+<item>Jacob sheep</item>
+<item>Kerry Hill sheep</item>
+<item>Llanwenog sheep</item>
+<item>Lleyn sheep</item>
+<item>Lonk sheep</item>
+<item>Manx Loaghtan</item>
+<item>Norfolk Horn sheep</item>
+<item>North Ronaldsay sheep</item>
+<item>Portland sheep</item>
+<item>Romney sheep</item>
+<item>Rough Fell sheep</item>
+<item>Ryeland sheep</item>
+<item>Scottish Black Face sheep</item>
+<item>Soay sheep</item>
+<item>Southdown sheep</item>
+<item>Suffolk sheep</item>
+<item>Swaledale sheep</item>
+<item>Texel sheep</item>
+<item>Wensleydale sheep</item>
+</string-array>
